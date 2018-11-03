@@ -25,14 +25,10 @@ img{
     flex-direction:row;
 }
 .info ul li {
-    float:left;
+    float: left;
     padding:0 20px 0 20px;
-    display:inline;
-}
-.info ul{
-    margin:0;
-    padding:0;
-    overflow:hidden;
+    display: inline;
+    text-align: center;
 }
 html{
     font-family: monospace;
