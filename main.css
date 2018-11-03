@@ -1,15 +1,17 @@
-.right{
+.left{
     float: left;
-    background-color: #d9dce2;
+    background-color: #e8ebf2;
     padding: 3%;
     width: 59%;
     height: 100%;
+    margin: 0;
 }
-.left{
+.right{
     float: right;
     background-color: #001135;
     color: white;  
     padding: 3%;
     width: 29%;
     height: 100%;
+    margin: 0;
 }
